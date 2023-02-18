@@ -1,0 +1,15 @@
+/workspaces/xamarin-app/bin/Debug/net7.0/xamarin-app
+/workspaces/xamarin-app/bin/Debug/net7.0/xamarin-app.deps.json
+/workspaces/xamarin-app/bin/Debug/net7.0/xamarin-app.runtimeconfig.json
+/workspaces/xamarin-app/bin/Debug/net7.0/xamarin-app.dll
+/workspaces/xamarin-app/bin/Debug/net7.0/xamarin-app.pdb
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.csproj.AssemblyReference.cache
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.AssemblyInfoInputs.cache
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.AssemblyInfo.cs
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.csproj.CoreCompileInputs.cache
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.dll
+/workspaces/xamarin-app/obj/Debug/net7.0/refint/xamarin-app.dll
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.pdb
+/workspaces/xamarin-app/obj/Debug/net7.0/xamarin-app.genruntimeconfig.cache
+/workspaces/xamarin-app/obj/Debug/net7.0/ref/xamarin-app.dll
